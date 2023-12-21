@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1278664,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.2"
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/389c86737a26105a46c94cba7d8facdb/1703256795462/livetv/enc/7a3eefa65c1b20d6dbd945adcb41fa46/playlist.m3u8?h=720&c=h
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1963224,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2"
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/389c86737a26105a46c94cba7d8facdb/1703256795462/livetv/enc/7a3eefa65c1b20d6dbd945adcb41fa46/playlist.m3u8?h=720&c=h
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5365608,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/389c86737a26105a46c94cba7d8facdb/1703256795462/livetv/enc/7a3eefa65c1b20d6dbd945adcb41fa46/playlist.m3u8?h=720&c=h
+
+
+
